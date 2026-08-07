@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://oj.didapipa.com/"><strong>🚀 DidaOJ</strong></a> —— 功能完善的在线评测（Online Judge）平台：题目评测 · 比赛 · 社区交流
+</p>
+
+<p align="center">
+  <strong>立即体验：<a href="https://oj.didapipa.com/">https://oj.didapipa.com/</a></strong>
+</p>
+
+---
+
 # Codeoj-judge
 
 ### 项目简介
@@ -17,7 +27,3 @@
 ### License
 
 GPL-2.0
-
-## 🚀 DidaOJ
-
-[**DidaOJ**](https://oj.didapipa.com/) 是一个功能完善的在线评测（Online Judge）平台，提供题目评测、比赛、社区交流等功能，欢迎访问体验：https://oj.didapipa.com/
