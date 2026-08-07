@@ -11,3 +11,13 @@
 ### 项目部署
 
 可参考`install`文件夹与`hustoj`项目配置安装。
+
+部署前请修改`conf/judge.conf`中的数据库密码（`OJ_PASSWORD`）、HTTP 认证密码（`OJ_HTTP_PASSWORD`）与 Redis 认证密码（`OJ_REDISAUTH`）。
+
+### License
+
+GPL-2.0
+
+## 🚀 DidaOJ
+
+[**DidaOJ**](https://oj.didapipa.com/) 是一个功能完善的在线评测（Online Judge）平台，提供题目评测、比赛、社区交流等功能，欢迎访问体验：https://oj.didapipa.com/
